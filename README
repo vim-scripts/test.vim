@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1
+
+This is an example of a utility script file. I added this so people could see what a script looks like in vimonline -- the file itself is empty. Originally this was just to show how people could use vimonline. Now I use it do do a final test of new code once I deploy it to production.
